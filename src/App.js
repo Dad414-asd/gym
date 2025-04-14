@@ -1,3 +1,5 @@
+"recharts": "^2.8.0"
+
 import React, { useState, useEffect } from "react";
 import { BarChart, Bar, XAxis, YAxis, Tooltip, CartesianGrid, ResponsiveContainer } from "recharts";
 
